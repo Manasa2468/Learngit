@@ -1,0 +1,183 @@
+ Florida blue project ----
+
+My project is about claims processing
+
+ I am invovlved in integrating with various data sources such as electronic health records (EHR) systems, insurance databases, and billing systems. My role is to design and implement data integration solutions, ensuring data accuracy since most of our data would be of critical patients, and maintaining data security and privacy is essential.
+
+[ ] Explain about yourself?
+
+First of all, I would like to Thank you for inviting me for this discussion. My name is uthej kiran, I've been working as a Back-end developer as well as a UI developer for more than 8years, so I consider myself as a Full-stack developer. Coming to the UI tehnologies, I have strong experience working on Angular, Typescript, React, Html, css, Bootstrap and also older technologies like Sturts and JSF.and then backend, I'm working on Spring Boot, microservices, restful API's and JPA,  Hibernate,and JDBC then cloud, I have working experinece with AWS cloud services like EC2, AWS lambda,ROUT 53, Dynamo DB, S3 bucket, not only these I have experience working on Structered databases like postgresql, oracle database and Mysql, in nosql databases i worked on cassandra and MongoDB.
+
+ In my current project, we are following agile methodology, I have involved in migrating the application from monolithic architecture to microservices architechture and also developed RESTful microservices using SpringBoot, SpringEureka and deployed these services to the cloud environments.
+
+So this is all about me.
+
+- [ ] Can you describe your experience as a full stack developer? exp
+
+Through out my career, I have possessed the knowledge and skills to work on both front end and back end technologies,
+
+coming to the UI, i had so many challanges in desingning user interface to ensure seemless user expereince, but at the end of the project I use to feel great by looking at interactivity of the application, perhaps making it visually appealing and user-friendly.
+
+coming to my back end experience, In my initial days of my career, there are times ,where I use to sit for straight 9 hours to work on the code, Over the time, i got a broad understanding of the entire development process,also learned how to work independently to build end-to-end web applications. 
+
+- [ ] What’s your contribution to project? cont
+
+I took care of developing more than 30+ microservices in my application. Not only these I am solely responsible for creating and sharing the rest Api documentation using Swagger. Also I use to know the endpoints and health condition of my application via Spring actuator,just to share these end points with other developers in the team. These are some of my contributions towards the project.
+
+- [ ] What is your exact role in current project? 
+My role is to grab all the requirements from the product owners of the project, For that i usually have to associate with directors and ........based on these meetings we gather all the requirements and any updates required for the applications.. and develop services and UI of the application and these meetings occur in a particular interval manner like twice a week.
+
+- [ ] What is your preferred programming language and why? 
+I would say JAVA.
+
+Becasue Java is a legacy technology and it has been from past copule decades and definitely one of the most trusted technologies and proved that we are able to develop standard applications without any lapses.
+
+- [ ] Can you explain how the Model-View-Controller (MVC) design pattern works?
+It is an architectural pattern which seperates an application into three main logical components.
+Model handles the core data logic of the application and interacts with the databases.
+and the next one would be the 
+view handles all the UI logic of the application
+and contoller component acts as the interface between the model and view components. 
+
+
+- [ ] How do you handle debugging in your development work? Can you provide an example? debug
+I use logging to capture relevant information during the execution of the code,This helps me in identifying potential issues.
+
+To explain you better about debugging
+I Write unit tests which will helps to catch the bugs early in the development process not only these i include mechanisms like  try/catch, explicit returns, either, and supervising crashes to catch exceptions and handle errors.
+
+
+- [ ] Can you explain what RESTful APIs are and how they're used in full stack development? rest
+
+ Restful API's are used by software systems to exchange the data over the internet using HTTP methods.
+
+Here in full stack development resources are the key concepts in the restful api, each resource has an URL and can be manipulated based on the HTTP methods given.
+I would like to share some of the HTTP methods used so far
+GET: is used to retreive the data from the server
+POST: 	is used to create new resources in the server.
+PUT:  is used to update existing resources.
+DELETE: is used to remove existing resources in the server.
+
+
+- [ ] Have you dealt with any cross-browser compatibility issues in your projects? Can you give an example? cross
+
+ It is an ability of the web application to function consistently and correctly across different web browsers, such as Chrome, Firefox, Safari, and Internet Explorer/Edge.
+
+In my career I never encountered any cross-browser compatibility issue, if at all i face any I would say progressive enhancement of the web application will overcome this issue that is creating a solid foundation of HTML and CSS that works well across browsers, then layering on additional functionality using JavaScript.
+
+- [ ] How do you ensure that a website is responsive and works well on various screen sizes? screen
+To ensure a website is responsive, I use a mobile-first design approach, which means designing for the smallest screen first and then progressively enhancing the experience for larger screens. I use CSS media queries to apply different styles for different screen sizes. I also use flexible layouts (using percentages for widths instead of fixed pixels) and flexible images/media (using CSS to ensure they scale within their containing elements). I test the website on various devices and browsers to ensure it looks and functions correctly.
+
+
+- [ ] Can you describe the security measures you take while developing an application? security
+
+Security is a critical aspect of application development. I follow secure coding practices to prevent common security vulnerabilities. I use HTTPS for secure communication over the network. I validate and sanitize all user inputs to prevent attacks like Cross-Site Scripting (XSS) and SQL Injection. I also use secure libraries and frameworks and keep them up-to-date to prevent known vulnerabilities.
+
+
+- [ ] Can you describe an example of a performance optimization you have made in a project? performance
+
+first we try avoid using long methods, and use primitive types wherever possible and avoid regular expressions in java code, and we perform continuos load testing in order to check the response time of the applicaiton and the expected response should be below 1 second then we'll proceed, but if it is more than a second then we use java streams for parallel processing of the data. that's how we optimize the performance. 
+
+
+- [ ] How do you stay up-to-date with the latest full stack development tools and technologies? uptodate
+
+Mostly I stay up-to-date since I am following tech leaders and tech giants from the very long time.
+Also I have subscribed to industry specific blogs like The Verge,CNET, TechCrunch, VentureBeat...
+I also follow tech podcasts like This week in tech, Pivot, HardFork.
+
+- [ ] What is your strategy for testing and quality assurance in your projects? testing
+
+i have experience on both manual and automation testing but what i prefer is automation testing because with automation testing there will be less chances of errors repeatedly.
+
+ for UI i have used selenium and apart from selenium i have expereince with cypress as well.
+
+while coming to the back end testing I have used JUNIT, EASYMOCK and copperMOCK and for stubbing the data and proxying the data i have used MOCKITO and powermock. and for UNIT testing i have used JUNIT.. and... and other than this in terms of testing types i have expereincce with funcitonal testing, stress testing and integration testing, load testing, perfromance testing .....
+
+
+- [ ] How do you handle working on multiple projects or tasks at the same time? multiple
+
+I'll start by prioritizing tStart by identifying the most important and urgent tasks. Determine which projects require immediate attention and focus on those first.
+
+
+
+- [ ] Can you describe a time when you had to learn a new technology or tool quickly for a project?
+
+I still remember, In my first project, while migrating our application from Angularjs to Angular2. I got an opportunity to learn a new technology typescript untill then we used javascript for UI development. 
+
+
+
+- [ ] Can you describe a project that required a significant amount of problem-solving? What was your approach? problem
+
+None other than my present project, Since it is a healthcare based domain, it involves in lot of finance matters and many private information has been stored and only authorized persons are allowed to access them, so we have to follow certain confluences in order to implement them in our code, and we face lot of implementation and build errors. To resolve this issue I went in touch with application gateway teams and worked on the solution and thats how i approched towards the problem.
+
+
+
+- [ ] How do you typically collaborate with other team members, such as UI/UX designers or product managers?
+
+I'll contact them by local messengers like teams and skype..Usually our production support takes care of organizing with them and we have an active offshore team who takes care of all these. Very rarely only in emergency situations I''ll do an official call.
+
+- [ ] How do you handle feedback and incorporate changes into your work? feedback
+
+since we work in agile evironment, at the end of the sprint we have a retro session where we appreciate each other in the team and also discuss the flaws that has occured in the particular team, and try to work on them..
+
+
+- [ ] Can you describe a project you're particularly proud of and your role in it? proud
+
+well, it differs from every individual but throughout my career I have so many such proud moments. But i would share one moment with you, back in 2017 while I was working for Thompson-reuters, I was told to share my knowledge and mentor junior developers, its a kind of training. That was the first time I trained two java developers, which has become memorable.
+
+ 
+
+challanges - - -
+
+ Some of the challenges I faced during the my current project include managing the complexity of the application due to its size and scope, ensuring seamless integration between various technologies and components, ensuring application security, and optimizing the performance and scalability of the application.
+
+Kubernetes: An open-source container orchestration platform used for deploying and managing containerized applications. It provides a way to automate the deployment, scaling, and management of containerized applications.
+
+Docker: An open-source containerization platform used for packaging and deploying applications. It provides a way to create and manage containers that can run in any environment.
+
+Jenkins: An open-source automation server used for building, testing, and deploying applications. It provides a range of tools and features for continuous integration and continuous delivery.
+
+JUnit 5: A testing framework used for unit testing Java applications. It provides a way to write and execute tests for individual units of code.
+
+JMeter :JMeter is mostly used to test the performance of web applications under load and stress.
+
+Strenghts:
+
+Strenghts:
+> I Enjoy software development and writing the code.
+>  I am very much Passioned about maintaining quality, secured and performace optimized code.
+> also my strenghts include Creative and critical thinking.
+
+
+Weaknesses:
+
+In the beginning days of my career, I use to have problem to understand the business, and gathering requirements, But over the time, I developed good rapot with my team members and learned how to overcome this situation.
+
+
+
+SPRING BOOT  spring ---- I have been working on springboot framework for past 5+ years, within springboot i wokred on springboot actuator, springboot swagger, springboot microsservices and springboot with netflix API's and on top of this i also used Spring AOP transactions persistance, security and springboot flux and mono react frameworks as well.. and in microservices yes i have used REST API to develop these microservices to forward choreography and orchestrattion approaches in microservices.
+
+And I used springboot  with OAUTH tool as a security to implement security on top of microservices... yes i have experience with OAUTH tool and apart from OAUTH tool i also have experience with OCTA as a security 
+
+
+i have used kubernets with docker and i also used kubernetes as part of kubernetes cloud deployment and within AWS i have used EKS service for kubernetes configuration with  EC2 or ECS...So EKS is elastic kubernetes  service i have used EKS to take care of the pods,take care of workload configuration, take care of docker container management and also docker container configuration as well and also to make sure about load balancing between the pods, load balancing between the applictions deployed into ECS i primarily used kubernetes
+
+day to day responsibilites - - -  daily
+
+
+I will start at 8:45, so first of all I will have a look at outlook, teams, skype and all connecting mediums just to check if there are any escalations and high priority issues.that's it and  I will make to stand-up at 9'O clock and get status updates of the team. After stand-up meeting, I'll hop on to the calender to check for refinment meetings, trainings and sometimes one-on-one meetings.
+
+As a full stack java developer I spend a significant portion of time writing and maintaining Java code, also to work on implementing new features, fixing bugs, and optimizing performance. Sometimes I have to sit for straight 8 hours to identify bottlenecks, and apply optimizations to enhance the application's speed and efficiency.
+
+I am solely responsible for the documentation in my project. As a part of documentation I create and maintain technical documentation, including code comments, user guides, and API documentation, just to help other team members understand and work with the codebase effectively.
+
+As i work in agile environment..I  will collaborate with all the stakeholders which includes, testing team, developers and business analysts...Not only them sometimes if needed i have to have a one on one with software architects and designers, who contribute to overall design architecture to analyze requirements and design software solutions.
+ I also have to do code reviews, provide feedback and suggestions to improve the quality of code written by the offshore team.
+
+Finally, we deploy applications to different environments, such as development, testing, and production,and ensure that the application is properly configured and maintained in these environments.
+
+so, thats all about my daily work
+
+
+
+
